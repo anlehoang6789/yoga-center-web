@@ -8,8 +8,8 @@
 	- Tran Gia Thanh Dat
 
 * System Architecture Overview 
-	**Front-end: HTML, CSS, Boostrap, JavaScript, JQuery
-	**Back-end: MS SQL Server, Tomcat 10, JSP/Servlet, VNPAY Payment Gateway Integration, reCAPTCHA, MVC2 design pattern
+	- Front-end: HTML, CSS, Boostrap, JavaScript, JQuery
+	- Back-end: MS SQL Server, Tomcat 10, JSP/Servlet, VNPAY Payment Gateway Integration, reCAPTCHA, MVC2 design pattern, 
 			 Java Mail, Authen Google.
 
 * This project has 5 role: guest, trainee, trainer, admin, cashier.
