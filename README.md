@@ -1,4 +1,4 @@
-# Yoga Center Web
+# Yoga Center WebApp
 
 * This is a team project with 5 members.
 	- Le Hoang An
@@ -16,5 +16,8 @@
 
 * Description: The project is developed by the team so that customers can go through the web system to choose and buy courses, 
 		    view blogs, view class schedules directly on the web, save time and bring the best customer experience.
+		    
+### Screenshots
+![yoga-center_Home](https://github.com/anlehoang6789/yoga-center-web/blob/main/screenshots/yoga-center_Home.png)
 
 #### Copyright &#169; 2023 anlehoang
